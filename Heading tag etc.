@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Heading 1</h1>
+    <h2>Heading 2</h2>
+    <h3>Heading 3</h3>
+    <h4>Heading 4</h4>
+    <h5>Heading 5</h5>
+    <h6>Heading 6</h6>
+
+    <!-- paragraph -->
+    <p>This a paragraph</p>
+
+    <!-- br -->
+    <p>This a paragraph <br>And this a break the line</p>
+
+    <!-- hr -->
+    <p>This the hr tag</p>
+    <hr>
+    <p>Second line</p>
+
+    <!-- b-bold -->
+    <p>This a <b>Bold tag</b></p>
+
+    <!-- i=italic -->
+    <p>This a <i>Italic tag</i></p>
+
+    <!-- u=underline -->
+    <p>This a <u>Underline tag</u></p>
+    <hr>
+    <!-- font tag -->
+
+    <!-- 1=size -->
+    <font size="1">This the font tag = size</font><br>
+    <font size="2">This the font tag = size</font><br>
+    <font size="3">This the font tag = size</font><br>
+    <font size="4">This the font tag = size</font><br>
+    <hr>
+
+    <!-- 2=color -->
+    <font color="red">This the font tag = color</font><br>
+    <font color="blue">This the font tag = color</font><br>
+    <font color="aqua">This the font tag = color</font><br>
+    <font color="black">This the font tag = color</font><br>
+    <hr>
+    <!-- 3=face -->
+    <font face="Times New Roman" size="5">This the font tag = face</font><br>
+    <font face="Arial" size="5">This the font tag = face</font><br>
+    <font face="Verdana" size="4">This the font tag = face</font><br>
+    <font face="Tahoma" size="6">This the font tag = face</font><br>
+    <hr>
+
+
+</body>
+
+</html>
