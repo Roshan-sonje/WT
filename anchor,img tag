@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roshan Sonje</title>
+</head>
+<body>
+    <h2>This a anchor tag</h2>
+    <a href="https://www.Google.com" target="_blank">I am google</a>
+    <hr>
+    <h2>height=100px  width=100</h2>
+    <img src="dog.jpg" alt="dog image" height="100px" width="100px">
+    <hr>
+    <h2>height=200px  width=250</h2>
+    <img src="dog.jpg" alt="dog image" height="200px" width="250">
+</body>
+</html>
